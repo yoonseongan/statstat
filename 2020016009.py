@@ -53,7 +53,7 @@ class FirstGradeStudent(Student):
 student = FirstGradeStudent("안윤성", 0, 0, 0) #점수 초기화
 
 
-# 과목 점수 업데이트
+
 new_computer_score = int(input("컴퓨터 점수 : "))
 student.edit_computer_score(new_computer_score)
 
@@ -63,5 +63,5 @@ student.edit_science_score(new_science_score)
 new_sociology_score = int(input("사회 점수 : "))
 student.edit_sociology_score(new_sociology_score)
 
-# 업데이트된 평균 점수 출력
+
 print(f"{student.get_name()}의 평균 점수: {student.get_average_score()}")
