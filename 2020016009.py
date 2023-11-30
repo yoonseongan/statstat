@@ -12,7 +12,7 @@ class Student:
     def edit_computer_score(self, new_score):
         self.computer_score = new_score
 
-class NaturalScienceStudent(Student):
+class NaturalScience(Student):
     def __init__(self, name, computer_score, science_score):
         super().__init__(name, computer_score)
         self.science_score = science_score
@@ -23,7 +23,7 @@ class NaturalScienceStudent(Student):
     def edit_science_score(self, new_score):
         self.science_score = new_score
 
-class LiberalArtsStudent(Student):
+class LiberalArts(Student):
     def __init__(self, name, computer_score, sociology_score):
         super().__init__(name, computer_score)
         self.sociology_score = sociology_score
