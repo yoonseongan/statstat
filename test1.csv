@@ -1,109 +1,109 @@
-,TBL_NM,PRD_DE,TBL_ID,ITM_NM,ITM_NM_ENG,ITM_ID,UNIT_NM,ORG_ID,UNIT_NM_ENG,C1_OBJ_NM,C1_OBJ_NM_ENG,C2_OBJ_NM,C2_OBJ_NM_ENG,DT,PRD_SE,C2,C1,C1_NM,C2_NM,C1_NM_ENG,C2_NM_ENG
-0,품목별 소비자물가지수(품목성질별: 2020＝100),201701,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,93.556,Q,A,T10,전국,농축수산물,whole country,Agricultural ＆ marine products
-1,품목별 소비자물가지수(품목성질별: 2020＝100),201702,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,90.453,Q,A,T10,전국,농축수산물,whole country,Agricultural ＆ marine products
-2,품목별 소비자물가지수(품목성질별: 2020＝100),201703,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,93.699,Q,A,T10,전국,농축수산물,whole country,Agricultural ＆ marine products
-3,품목별 소비자물가지수(품목성질별: 2020＝100),201704,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,90.122,Q,A,T10,전국,농축수산물,whole country,Agricultural ＆ marine products
-4,품목별 소비자물가지수(품목성질별: 2020＝100),201801,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,94.222,Q,A,T10,전국,농축수산물,whole country,Agricultural ＆ marine products
-5,품목별 소비자물가지수(품목성질별: 2020＝100),201802,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,92.302,Q,A,T10,전국,농축수산물,whole country,Agricultural ＆ marine products
-6,품목별 소비자물가지수(품목성질별: 2020＝100),201803,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,98.27,Q,A,T10,전국,농축수산물,whole country,Agricultural ＆ marine products
-7,품목별 소비자물가지수(품목성질별: 2020＝100),201804,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,96.516,Q,A,T10,전국,농축수산물,whole country,Agricultural ＆ marine products
-8,품목별 소비자물가지수(품목성질별: 2020＝100),201901,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,94.443,Q,A,T10,전국,농축수산물,whole country,Agricultural ＆ marine products
-9,품목별 소비자물가지수(품목성질별: 2020＝100),201902,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,93.413,Q,A,T10,전국,농축수산물,whole country,Agricultural ＆ marine products
-10,품목별 소비자물가지수(품목성질별: 2020＝100),201903,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,92.929,Q,A,T10,전국,농축수산물,whole country,Agricultural ＆ marine products
-11,품목별 소비자물가지수(품목성질별: 2020＝100),201904,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,94.146,Q,A,T10,전국,농축수산물,whole country,Agricultural ＆ marine products
-12,품목별 소비자물가지수(품목성질별: 2020＝100),202001,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,95.64,Q,A,T10,전국,농축수산물,whole country,Agricultural ＆ marine products
-13,품목별 소비자물가지수(품목성질별: 2020＝100),202002,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,96.72,Q,A,T10,전국,농축수산물,whole country,Agricultural ＆ marine products
-14,품목별 소비자물가지수(품목성질별: 2020＝100),202003,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,103.48,Q,A,T10,전국,농축수산물,whole country,Agricultural ＆ marine products
-15,품목별 소비자물가지수(품목성질별: 2020＝100),202004,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,104.16,Q,A,T10,전국,농축수산물,whole country,Agricultural ＆ marine products
-16,품목별 소비자물가지수(품목성질별: 2020＝100),202101,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,108.36,Q,A,T10,전국,농축수산물,whole country,Agricultural ＆ marine products
-17,품목별 소비자물가지수(품목성질별: 2020＝100),202102,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,107.66,Q,A,T10,전국,농축수산물,whole country,Agricultural ＆ marine products
-18,품목별 소비자물가지수(품목성질별: 2020＝100),202103,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,109.29,Q,A,T10,전국,농축수산물,whole country,Agricultural ＆ marine products
-19,품목별 소비자물가지수(품목성질별: 2020＝100),202104,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,109.59,Q,A,T10,전국,농축수산물,whole country,Agricultural ＆ marine products
-20,품목별 소비자물가지수(품목성질별: 2020＝100),202201,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,111.31,Q,A,T10,전국,농축수산물,whole country,Agricultural ＆ marine products
-21,품목별 소비자물가지수(품목성질별: 2020＝100),202202,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,111.56,Q,A,T10,전국,농축수산물,whole country,Agricultural ＆ marine products
-22,품목별 소비자물가지수(품목성질별: 2020＝100),202203,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,116.71,Q,A,T10,전국,농축수산물,whole country,Agricultural ＆ marine products
-23,품목별 소비자물가지수(품목성질별: 2020＝100),202204,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,111.7,Q,A,T10,전국,농축수산물,whole country,Agricultural ＆ marine products
-24,품목별 소비자물가지수(품목성질별: 2020＝100),202301,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,113.24,Q,A,T10,전국,농축수산물,whole country,Agricultural ＆ marine products
-25,품목별 소비자물가지수(품목성질별: 2020＝100),202302,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,111.86,Q,A,T10,전국,농축수산물,whole country,Agricultural ＆ marine products
-26,품목별 소비자물가지수(품목성질별: 2020＝100),202303,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,119.06,Q,A,T10,전국,농축수산물,whole country,Agricultural ＆ marine products
-27,품목별 소비자물가지수(품목성질별: 2020＝100),201701,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,99.16,Q,B,T10,전국,공업제품,whole country,Industrial products
-28,품목별 소비자물가지수(품목성질별: 2020＝100),201702,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,98.977,Q,B,T10,전국,공업제품,whole country,Industrial products
-29,품목별 소비자물가지수(품목성질별: 2020＝100),201703,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,98.859,Q,B,T10,전국,공업제품,whole country,Industrial products
-30,품목별 소비자물가지수(품목성질별: 2020＝100),201704,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,99.514,Q,B,T10,전국,공업제품,whole country,Industrial products
-31,품목별 소비자물가지수(품목성질별: 2020＝100),201801,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,99.877,Q,B,T10,전국,공업제품,whole country,Industrial products
-32,품목별 소비자물가지수(품목성질별: 2020＝100),201802,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,100.431,Q,B,T10,전국,공업제품,whole country,Industrial products
-33,품목별 소비자물가지수(품목성질별: 2020＝100),201803,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,100.614,Q,B,T10,전국,공업제품,whole country,Industrial products
-34,품목별 소비자물가지수(품목성질별: 2020＝100),201804,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,100.617,Q,B,T10,전국,공업제품,whole country,Industrial products
-35,품목별 소비자물가지수(품목성질별: 2020＝100),201901,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,99.177,Q,B,T10,전국,공업제품,whole country,Industrial products
-36,품목별 소비자물가지수(품목성질별: 2020＝100),201902,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,100.473,Q,B,T10,전국,공업제품,whole country,Industrial products
-37,품목별 소비자물가지수(품목성질별: 2020＝100),201903,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,100.44,Q,B,T10,전국,공업제품,whole country,Industrial products
-38,품목별 소비자물가지수(품목성질별: 2020＝100),201904,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,100.807,Q,B,T10,전국,공업제품,whole country,Industrial products
-39,품목별 소비자물가지수(품목성질별: 2020＝100),202001,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,101.08,Q,B,T10,전국,공업제품,whole country,Industrial products
-40,품목별 소비자물가지수(품목성질별: 2020＝100),202002,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,99.3,Q,B,T10,전국,공업제품,whole country,Industrial products
-41,품목별 소비자물가지수(품목성질별: 2020＝100),202003,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,99.86,Q,B,T10,전국,공업제품,whole country,Industrial products
-42,품목별 소비자물가지수(품목성질별: 2020＝100),202004,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,99.76,Q,B,T10,전국,공업제품,whole country,Industrial products
-43,품목별 소비자물가지수(품목성질별: 2020＝100),202101,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,100.7,Q,B,T10,전국,공업제품,whole country,Industrial products
-44,품목별 소비자물가지수(품목성질별: 2020＝100),202102,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,101.53,Q,B,T10,전국,공업제품,whole country,Industrial products
-45,품목별 소비자물가지수(품목성질별: 2020＝100),202103,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,102.63,Q,B,T10,전국,공업제품,whole country,Industrial products
-46,품목별 소비자물가지수(품목성질별: 2020＝100),202104,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,104.31,Q,B,T10,전국,공업제품,whole country,Industrial products
-47,품목별 소비자물가지수(품목성질별: 2020＝100),202201,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,106.14,Q,B,T10,전국,공업제품,whole country,Industrial products
-48,품목별 소비자물가지수(품목성질별: 2020＝100),202202,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,110.12,Q,B,T10,전국,공업제품,whole country,Industrial products
-49,품목별 소비자물가지수(품목성질별: 2020＝100),202203,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,110.36,Q,B,T10,전국,공업제품,whole country,Industrial products
-50,품목별 소비자물가지수(품목성질별: 2020＝100),202204,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,110.68,Q,B,T10,전국,공업제품,whole country,Industrial products
-51,품목별 소비자물가지수(품목성질별: 2020＝100),202301,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,111.09,Q,B,T10,전국,공업제품,whole country,Industrial products
-52,품목별 소비자물가지수(품목성질별: 2020＝100),202302,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,111.6,Q,B,T10,전국,공업제품,whole country,Industrial products
-53,품목별 소비자물가지수(품목성질별: 2020＝100),202303,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,112.53,Q,B,T10,전국,공업제품,whole country,Industrial products
-54,품목별 소비자물가지수(품목성질별: 2020＝100),201701,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,102.43,Q,C,T10,전국,전기 · 가스 · 수도,whole country,Electricity and Gas and Water
-55,품목별 소비자물가지수(품목성질별: 2020＝100),201702,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,103.725,Q,C,T10,전국,전기 · 가스 · 수도,whole country,Electricity and Gas and Water
-56,품목별 소비자물가지수(품목성질별: 2020＝100),201703,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,103.809,Q,C,T10,전국,전기 · 가스 · 수도,whole country,Electricity and Gas and Water
-57,품목별 소비자물가지수(품목성질별: 2020＝100),201704,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,101.557,Q,C,T10,전국,전기 · 가스 · 수도,whole country,Electricity and Gas and Water
-58,품목별 소비자물가지수(품목성질별: 2020＝100),201801,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,100.53,Q,C,T10,전국,전기 · 가스 · 수도,whole country,Electricity and Gas and Water
-59,품목별 소비자물가지수(품목성질별: 2020＝100),201802,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,100.576,Q,C,T10,전국,전기 · 가스 · 수도,whole country,Electricity and Gas and Water
-60,품목별 소비자물가지수(품목성질별: 2020＝100),201803,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,96.572,Q,C,T10,전국,전기 · 가스 · 수도,whole country,Electricity and Gas and Water
-61,품목별 소비자물가지수(품목성질별: 2020＝100),201804,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,101.886,Q,C,T10,전국,전기 · 가스 · 수도,whole country,Electricity and Gas and Water
-62,품목별 소비자물가지수(품목성질별: 2020＝100),201901,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,101.855,Q,C,T10,전국,전기 · 가스 · 수도,whole country,Electricity and Gas and Water
-63,품목별 소비자물가지수(품목성질별: 2020＝100),201902,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,101.851,Q,C,T10,전국,전기 · 가스 · 수도,whole country,Electricity and Gas and Water
-64,품목별 소비자물가지수(품목성질별: 2020＝100),201903,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,98.426,Q,C,T10,전국,전기 · 가스 · 수도,whole country,Electricity and Gas and Water
-65,품목별 소비자물가지수(품목성질별: 2020＝100),201904,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,103.414,Q,C,T10,전국,전기 · 가스 · 수도,whole country,Electricity and Gas and Water
-66,품목별 소비자물가지수(품목성질별: 2020＝100),202001,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,103.33,Q,C,T10,전국,전기 · 가스 · 수도,whole country,Electricity and Gas and Water
-67,품목별 소비자물가지수(품목성질별: 2020＝100),202002,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,103.1,Q,C,T10,전국,전기 · 가스 · 수도,whole country,Electricity and Gas and Water
-68,품목별 소비자물가지수(품목성질별: 2020＝100),202003,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,94.25,Q,C,T10,전국,전기 · 가스 · 수도,whole country,Electricity and Gas and Water
-69,품목별 소비자물가지수(품목성질별: 2020＝100),202004,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,99.31,Q,C,T10,전국,전기 · 가스 · 수도,whole country,Electricity and Gas and Water
-70,품목별 소비자물가지수(품목성질별: 2020＝100),202101,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,98.2,Q,C,T10,전국,전기 · 가스 · 수도,whole country,Electricity and Gas and Water
-71,품목별 소비자물가지수(품목성질별: 2020＝100),202102,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,98.2,Q,C,T10,전국,전기 · 가스 · 수도,whole country,Electricity and Gas and Water
-72,품목별 소비자물가지수(품목성질별: 2020＝100),202103,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,94.53,Q,C,T10,전국,전기 · 가스 · 수도,whole country,Electricity and Gas and Water
-73,품목별 소비자물가지수(품목성질별: 2020＝100),202104,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,100.68,Q,C,T10,전국,전기 · 가스 · 수도,whole country,Electricity and Gas and Water
-74,품목별 소비자물가지수(품목성질별: 2020＝100),202201,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,101.08,Q,C,T10,전국,전기 · 가스 · 수도,whole country,Electricity and Gas and Water
-75,품목별 소비자물가지수(품목성질별: 2020＝100),202202,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,106.72,Q,C,T10,전국,전기 · 가스 · 수도,whole country,Electricity and Gas and Water
-76,품목별 소비자물가지수(품목성질별: 2020＝100),202203,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,109,Q,C,T10,전국,전기 · 가스 · 수도,whole country,Electricity and Gas and Water
-77,품목별 소비자물가지수(품목성질별: 2020＝100),202204,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,123.97,Q,C,T10,전국,전기 · 가스 · 수도,whole country,Electricity and Gas and Water
-78,품목별 소비자물가지수(품목성질별: 2020＝100),202301,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,129.76,Q,C,T10,전국,전기 · 가스 · 수도,whole country,Electricity and Gas and Water
-79,품목별 소비자물가지수(품목성질별: 2020＝100),202302,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,132.65,Q,C,T10,전국,전기 · 가스 · 수도,whole country,Electricity and Gas and Water
-80,품목별 소비자물가지수(품목성질별: 2020＝100),202303,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,131.23,Q,C,T10,전국,전기 · 가스 · 수도,whole country,Electricity and Gas and Water
-81,품목별 소비자물가지수(품목성질별: 2020＝100),201701,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,94.001,Q,F,T10,전국,개인서비스,whole country,Personal services
-82,품목별 소비자물가지수(품목성질별: 2020＝100),201702,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,94.445,Q,F,T10,전국,개인서비스,whole country,Personal services
-83,품목별 소비자물가지수(품목성질별: 2020＝100),201703,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,95.056,Q,F,T10,전국,개인서비스,whole country,Personal services
-84,품목별 소비자물가지수(품목성질별: 2020＝100),201704,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,95.02,Q,F,T10,전국,개인서비스,whole country,Personal services
-85,품목별 소비자물가지수(품목성질별: 2020＝100),201801,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,96.068,Q,F,T10,전국,개인서비스,whole country,Personal services
-86,품목별 소비자물가지수(품목성질별: 2020＝100),201802,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,97.042,Q,F,T10,전국,개인서비스,whole country,Personal services
-87,품목별 소비자물가지수(품목성질별: 2020＝100),201803,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,97.479,Q,F,T10,전국,개인서비스,whole country,Personal services
-88,품목별 소비자물가지수(품목성질별: 2020＝100),201804,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,97.488,Q,F,T10,전국,개인서비스,whole country,Personal services
-89,품목별 소비자물가지수(품목성질별: 2020＝100),201901,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,98.308,Q,F,T10,전국,개인서비스,whole country,Personal services
-90,품목별 소비자물가지수(품목성질별: 2020＝100),201902,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,98.686,Q,F,T10,전국,개인서비스,whole country,Personal services
-91,품목별 소비자물가지수(품목성질별: 2020＝100),201903,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,99.171,Q,F,T10,전국,개인서비스,whole country,Personal services
-92,품목별 소비자물가지수(품목성질별: 2020＝100),201904,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,99.09,Q,F,T10,전국,개인서비스,whole country,Personal services
-93,품목별 소비자물가지수(품목성질별: 2020＝100),202001,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,99.54,Q,F,T10,전국,개인서비스,whole country,Personal services
-94,품목별 소비자물가지수(품목성질별: 2020＝100),202002,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,99.72,Q,F,T10,전국,개인서비스,whole country,Personal services
-95,품목별 소비자물가지수(품목성질별: 2020＝100),202003,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,100.27,Q,F,T10,전국,개인서비스,whole country,Personal services
-96,품목별 소비자물가지수(품목성질별: 2020＝100),202004,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,100.46,Q,F,T10,전국,개인서비스,whole country,Personal services
-97,품목별 소비자물가지수(품목성질별: 2020＝100),202101,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,101.39,Q,F,T10,전국,개인서비스,whole country,Personal services
-98,품목별 소비자물가지수(품목성질별: 2020＝100),202102,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,102.22,Q,F,T10,전국,개인서비스,whole country,Personal services
-99,품목별 소비자물가지수(품목성질별: 2020＝100),202103,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,103.02,Q,F,T10,전국,개인서비스,whole country,Personal services
-100,품목별 소비자물가지수(품목성질별: 2020＝100),202104,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,103.55,Q,F,T10,전국,개인서비스,whole country,Personal services
-101,품목별 소비자물가지수(품목성질별: 2020＝100),202201,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,105.66,Q,F,T10,전국,개인서비스,whole country,Personal services
-102,품목별 소비자물가지수(품목성질별: 2020＝100),202202,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,107.46,Q,F,T10,전국,개인서비스,whole country,Personal services
-103,품목별 소비자물가지수(품목성질별: 2020＝100),202203,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,109.34,Q,F,T10,전국,개인서비스,whole country,Personal services
-104,품목별 소비자물가지수(품목성질별: 2020＝100),202204,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,109.99,Q,F,T10,전국,개인서비스,whole country,Personal services
-105,품목별 소비자물가지수(품목성질별: 2020＝100),202301,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,111.78,Q,F,T10,전국,개인서비스,whole country,Personal services
-106,품목별 소비자물가지수(품목성질별: 2020＝100),202302,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,113.46,Q,F,T10,전국,개인서비스,whole country,Personal services
-107,품목별 소비자물가지수(품목성질별: 2020＝100),202303,DT_1J20112,소비자물가지수,CPI,T,2020＝100,101,2020＝100,시도별,by City,품목별,by Item,114.12,Q,F,T10,전국,개인서비스,whole country,Personal services
+,PRD_DE,DT,C2_NM_ENG
+0,201701,93.556,Agricultural ＆ marine products
+1,201702,90.453,Agricultural ＆ marine products
+2,201703,93.699,Agricultural ＆ marine products
+3,201704,90.122,Agricultural ＆ marine products
+4,201801,94.222,Agricultural ＆ marine products
+5,201802,92.302,Agricultural ＆ marine products
+6,201803,98.27,Agricultural ＆ marine products
+7,201804,96.516,Agricultural ＆ marine products
+8,201901,94.443,Agricultural ＆ marine products
+9,201902,93.413,Agricultural ＆ marine products
+10,201903,92.929,Agricultural ＆ marine products
+11,201904,94.146,Agricultural ＆ marine products
+12,202001,95.64,Agricultural ＆ marine products
+13,202002,96.72,Agricultural ＆ marine products
+14,202003,103.48,Agricultural ＆ marine products
+15,202004,104.16,Agricultural ＆ marine products
+16,202101,108.36,Agricultural ＆ marine products
+17,202102,107.66,Agricultural ＆ marine products
+18,202103,109.29,Agricultural ＆ marine products
+19,202104,109.59,Agricultural ＆ marine products
+20,202201,111.31,Agricultural ＆ marine products
+21,202202,111.56,Agricultural ＆ marine products
+22,202203,116.71,Agricultural ＆ marine products
+23,202204,111.7,Agricultural ＆ marine products
+24,202301,113.24,Agricultural ＆ marine products
+25,202302,111.86,Agricultural ＆ marine products
+26,202303,119.06,Agricultural ＆ marine products
+27,201701,99.16,Industrial products
+28,201702,98.977,Industrial products
+29,201703,98.859,Industrial products
+30,201704,99.514,Industrial products
+31,201801,99.877,Industrial products
+32,201802,100.431,Industrial products
+33,201803,100.614,Industrial products
+34,201804,100.617,Industrial products
+35,201901,99.177,Industrial products
+36,201902,100.473,Industrial products
+37,201903,100.44,Industrial products
+38,201904,100.807,Industrial products
+39,202001,101.08,Industrial products
+40,202002,99.3,Industrial products
+41,202003,99.86,Industrial products
+42,202004,99.76,Industrial products
+43,202101,100.7,Industrial products
+44,202102,101.53,Industrial products
+45,202103,102.63,Industrial products
+46,202104,104.31,Industrial products
+47,202201,106.14,Industrial products
+48,202202,110.12,Industrial products
+49,202203,110.36,Industrial products
+50,202204,110.68,Industrial products
+51,202301,111.09,Industrial products
+52,202302,111.6,Industrial products
+53,202303,112.53,Industrial products
+54,201701,102.43,Electricity and Gas and Water
+55,201702,103.725,Electricity and Gas and Water
+56,201703,103.809,Electricity and Gas and Water
+57,201704,101.557,Electricity and Gas and Water
+58,201801,100.53,Electricity and Gas and Water
+59,201802,100.576,Electricity and Gas and Water
+60,201803,96.572,Electricity and Gas and Water
+61,201804,101.886,Electricity and Gas and Water
+62,201901,101.855,Electricity and Gas and Water
+63,201902,101.851,Electricity and Gas and Water
+64,201903,98.426,Electricity and Gas and Water
+65,201904,103.414,Electricity and Gas and Water
+66,202001,103.33,Electricity and Gas and Water
+67,202002,103.1,Electricity and Gas and Water
+68,202003,94.25,Electricity and Gas and Water
+69,202004,99.31,Electricity and Gas and Water
+70,202101,98.2,Electricity and Gas and Water
+71,202102,98.2,Electricity and Gas and Water
+72,202103,94.53,Electricity and Gas and Water
+73,202104,100.68,Electricity and Gas and Water
+74,202201,101.08,Electricity and Gas and Water
+75,202202,106.72,Electricity and Gas and Water
+76,202203,109,Electricity and Gas and Water
+77,202204,123.97,Electricity and Gas and Water
+78,202301,129.76,Electricity and Gas and Water
+79,202302,132.65,Electricity and Gas and Water
+80,202303,131.23,Electricity and Gas and Water
+81,201701,94.001,Personal services
+82,201702,94.445,Personal services
+83,201703,95.056,Personal services
+84,201704,95.02,Personal services
+85,201801,96.068,Personal services
+86,201802,97.042,Personal services
+87,201803,97.479,Personal services
+88,201804,97.488,Personal services
+89,201901,98.308,Personal services
+90,201902,98.686,Personal services
+91,201903,99.171,Personal services
+92,201904,99.09,Personal services
+93,202001,99.54,Personal services
+94,202002,99.72,Personal services
+95,202003,100.27,Personal services
+96,202004,100.46,Personal services
+97,202101,101.39,Personal services
+98,202102,102.22,Personal services
+99,202103,103.02,Personal services
+100,202104,103.55,Personal services
+101,202201,105.66,Personal services
+102,202202,107.46,Personal services
+103,202203,109.34,Personal services
+104,202204,109.99,Personal services
+105,202301,111.78,Personal services
+106,202302,113.46,Personal services
+107,202303,114.12,Personal services
